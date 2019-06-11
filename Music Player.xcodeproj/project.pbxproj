@@ -13,6 +13,26 @@
 		F43330CA22AF8117000E347F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F43330C822AF8117000E347F /* Main.storyboard */; };
 		F43330CC22AF8119000E347F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F43330CB22AF8119000E347F /* Assets.xcassets */; };
 		F43330CF22AF8119000E347F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F43330CD22AF8119000E347F /* LaunchScreen.storyboard */; };
+		F43330EB22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 08 Goldlink 'Crew' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330D722AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 08 Goldlink 'Crew' (Vandalized Edit).mp3 */; };
+		F43330EC22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 16 Drake 'Plain Dougie' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330D822AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 16 Drake 'Plain Dougie' (Vandalized Edit).mp3 */; };
+		F43330ED22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 04 A$AP Ferg 'Eastcoast' ft. Jael (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330D922AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 04 A$AP Ferg 'Eastcoast' ft. Jael (Vandalized Edit).mp3 */; };
+		F43330EE22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 06 Kanye West 'Sunday Service' (Vandalized Edit Instrumental).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330DA22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 06 Kanye West 'Sunday Service' (Vandalized Edit Instrumental).mp3 */; };
+		F43330EF22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 07 Ella Mai 'Boo'd Up' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330DB22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 07 Ella Mai 'Boo'd Up' (Vandalized Edit).mp3 */; };
+		F43330F022AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 19 Travis Scott 'Goosebumps' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330DC22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 19 Travis Scott 'Goosebumps' (Vandalized Edit).mp3 */; };
+		F43330F122AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 18 A$AP Rocky 'Praise The Lord' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330DD22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 18 A$AP Rocky 'Praise The Lord' (Vandalized Edit).mp3 */; };
+		F43330F222AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 03 Miguel 'Come Thru' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330DE22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 03 Miguel 'Come Thru' (Vandalized Edit).mp3 */; };
+		F43330F322AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 12 Russ splash 'Gun Lean' (Vandalized Edit 'Instrumental').mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330DF22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 12 Russ splash 'Gun Lean' (Vandalized Edit 'Instrumental').mp3 */; };
+		F43330F422AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 17 Major Lazer 'Pon Di Floor Joanna' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E022AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 17 Major Lazer 'Pon Di Floor Joanna' (Vandalized Edit).mp3 */; };
+		F43330F522AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 13 Post Malone 'Wow' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E122AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 13 Post Malone 'Wow' (Vandalized Edit).mp3 */; };
+		F43330F622AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 09 JUICEWRLD 'Lucid Dreams' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E222AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 09 JUICEWRLD 'Lucid Dreams' (Vandalized Edit).mp3 */; };
+		F43330F722AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 05 Kanye West x Denzel Curry 'Sunday Service' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E322AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 05 Kanye West x Denzel Curry 'Sunday Service' (Vandalized Edit).mp3 */; };
+		F43330F822AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 14 Lil Pump 'I Love It' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E422AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 14 Lil Pump 'I Love It' (Vandalized Edit).mp3 */; };
+		F43330F922AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 11 Travis Scott 'Stargazing' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E522AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 11 Travis Scott 'Stargazing' (Vandalized Edit).mp3 */; };
+		F43330FA22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 02 SZA 'Broken Clocks' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E622AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 02 SZA 'Broken Clocks' (Vandalized Edit).mp3 */; };
+		F43330FB22AF8173000E347F /* cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F43330E722AF8173000E347F /* cover.jpg */; };
+		F43330FC22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 10 Russ splash 'Gun Lean' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E822AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 10 Russ splash 'Gun Lean' (Vandalized Edit).mp3 */; };
+		F43330FD22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 15 Boogie Wit Da Hoodie 'Look Back At It' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330E922AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 15 Boogie Wit Da Hoodie 'Look Back At It' (Vandalized Edit).mp3 */; };
+		F43330FE22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 01 Burna Boy 'Pop Ye Collar' (Vandalized Edit).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = F43330EA22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 01 Burna Boy 'Pop Ye Collar' (Vandalized Edit).mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +44,26 @@
 		F43330CB22AF8119000E347F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F43330CE22AF8119000E347F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F43330D022AF8119000E347F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F43330D722AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 08 Goldlink 'Crew' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 08 Goldlink 'Crew' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330D822AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 16 Drake 'Plain Dougie' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 16 Drake 'Plain Dougie' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330D922AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 04 A$AP Ferg 'Eastcoast' ft. Jael (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 04 A$AP Ferg 'Eastcoast' ft. Jael (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330DA22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 06 Kanye West 'Sunday Service' (Vandalized Edit Instrumental).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 06 Kanye West 'Sunday Service' (Vandalized Edit Instrumental).mp3"; sourceTree = "<group>"; };
+		F43330DB22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 07 Ella Mai 'Boo'd Up' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 07 Ella Mai 'Boo'd Up' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330DC22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 19 Travis Scott 'Goosebumps' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 19 Travis Scott 'Goosebumps' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330DD22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 18 A$AP Rocky 'Praise The Lord' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 18 A$AP Rocky 'Praise The Lord' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330DE22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 03 Miguel 'Come Thru' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 03 Miguel 'Come Thru' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330DF22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 12 Russ splash 'Gun Lean' (Vandalized Edit 'Instrumental').mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 12 Russ splash 'Gun Lean' (Vandalized Edit 'Instrumental').mp3"; sourceTree = "<group>"; };
+		F43330E022AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 17 Major Lazer 'Pon Di Floor Joanna' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 17 Major Lazer 'Pon Di Floor Joanna' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330E122AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 13 Post Malone 'Wow' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 13 Post Malone 'Wow' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330E222AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 09 JUICEWRLD 'Lucid Dreams' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 09 JUICEWRLD 'Lucid Dreams' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330E322AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 05 Kanye West x Denzel Curry 'Sunday Service' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 05 Kanye West x Denzel Curry 'Sunday Service' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330E422AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 14 Lil Pump 'I Love It' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 14 Lil Pump 'I Love It' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330E522AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 11 Travis Scott 'Stargazing' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 11 Travis Scott 'Stargazing' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330E622AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 02 SZA 'Broken Clocks' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 02 SZA 'Broken Clocks' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330E722AF8173000E347F /* cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cover.jpg; sourceTree = "<group>"; };
+		F43330E822AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 10 Russ splash 'Gun Lean' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 10 Russ splash 'Gun Lean' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330E922AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 15 Boogie Wit Da Hoodie 'Look Back At It' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 15 Boogie Wit Da Hoodie 'Look Back At It' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
+		F43330EA22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 01 Burna Boy 'Pop Ye Collar' (Vandalized Edit).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jarreau Vandal - Vandalized Edits Volume IV - 01 Burna Boy 'Pop Ye Collar' (Vandalized Edit).mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,9 +102,37 @@
 				F43330C822AF8117000E347F /* Main.storyboard */,
 				F43330CB22AF8119000E347F /* Assets.xcassets */,
 				F43330CD22AF8119000E347F /* LaunchScreen.storyboard */,
+				F43330D622AF8173000E347F /* songs */,
 				F43330D022AF8119000E347F /* Info.plist */,
 			);
 			path = "Music Player";
+			sourceTree = "<group>";
+		};
+		F43330D622AF8173000E347F /* songs */ = {
+			isa = PBXGroup;
+			children = (
+				F43330D722AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 08 Goldlink 'Crew' (Vandalized Edit).mp3 */,
+				F43330D822AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 16 Drake 'Plain Dougie' (Vandalized Edit).mp3 */,
+				F43330D922AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 04 A$AP Ferg 'Eastcoast' ft. Jael (Vandalized Edit).mp3 */,
+				F43330DA22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 06 Kanye West 'Sunday Service' (Vandalized Edit Instrumental).mp3 */,
+				F43330DB22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 07 Ella Mai 'Boo'd Up' (Vandalized Edit).mp3 */,
+				F43330DC22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 19 Travis Scott 'Goosebumps' (Vandalized Edit).mp3 */,
+				F43330DD22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 18 A$AP Rocky 'Praise The Lord' (Vandalized Edit).mp3 */,
+				F43330DE22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 03 Miguel 'Come Thru' (Vandalized Edit).mp3 */,
+				F43330DF22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 12 Russ splash 'Gun Lean' (Vandalized Edit 'Instrumental').mp3 */,
+				F43330E022AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 17 Major Lazer 'Pon Di Floor Joanna' (Vandalized Edit).mp3 */,
+				F43330E122AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 13 Post Malone 'Wow' (Vandalized Edit).mp3 */,
+				F43330E222AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 09 JUICEWRLD 'Lucid Dreams' (Vandalized Edit).mp3 */,
+				F43330E322AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 05 Kanye West x Denzel Curry 'Sunday Service' (Vandalized Edit).mp3 */,
+				F43330E422AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 14 Lil Pump 'I Love It' (Vandalized Edit).mp3 */,
+				F43330E522AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 11 Travis Scott 'Stargazing' (Vandalized Edit).mp3 */,
+				F43330E622AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 02 SZA 'Broken Clocks' (Vandalized Edit).mp3 */,
+				F43330E722AF8173000E347F /* cover.jpg */,
+				F43330E822AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 10 Russ splash 'Gun Lean' (Vandalized Edit).mp3 */,
+				F43330E922AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 15 Boogie Wit Da Hoodie 'Look Back At It' (Vandalized Edit).mp3 */,
+				F43330EA22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 01 Burna Boy 'Pop Ye Collar' (Vandalized Edit).mp3 */,
+			);
+			path = songs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +193,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F43330FC22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 10 Russ splash 'Gun Lean' (Vandalized Edit).mp3 in Resources */,
+				F43330ED22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 04 A$AP Ferg 'Eastcoast' ft. Jael (Vandalized Edit).mp3 in Resources */,
+				F43330F322AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 12 Russ splash 'Gun Lean' (Vandalized Edit 'Instrumental').mp3 in Resources */,
+				F43330EE22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 06 Kanye West 'Sunday Service' (Vandalized Edit Instrumental).mp3 in Resources */,
+				F43330F022AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 19 Travis Scott 'Goosebumps' (Vandalized Edit).mp3 in Resources */,
+				F43330FA22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 02 SZA 'Broken Clocks' (Vandalized Edit).mp3 in Resources */,
+				F43330F522AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 13 Post Malone 'Wow' (Vandalized Edit).mp3 in Resources */,
+				F43330EB22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 08 Goldlink 'Crew' (Vandalized Edit).mp3 in Resources */,
+				F43330FB22AF8173000E347F /* cover.jpg in Resources */,
+				F43330FD22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 15 Boogie Wit Da Hoodie 'Look Back At It' (Vandalized Edit).mp3 in Resources */,
+				F43330F622AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 09 JUICEWRLD 'Lucid Dreams' (Vandalized Edit).mp3 in Resources */,
+				F43330F822AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 14 Lil Pump 'I Love It' (Vandalized Edit).mp3 in Resources */,
 				F43330CF22AF8119000E347F /* LaunchScreen.storyboard in Resources */,
 				F43330CC22AF8119000E347F /* Assets.xcassets in Resources */,
+				F43330F222AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 03 Miguel 'Come Thru' (Vandalized Edit).mp3 in Resources */,
 				F43330CA22AF8117000E347F /* Main.storyboard in Resources */,
+				F43330EC22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 16 Drake 'Plain Dougie' (Vandalized Edit).mp3 in Resources */,
+				F43330F122AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 18 A$AP Rocky 'Praise The Lord' (Vandalized Edit).mp3 in Resources */,
+				F43330EF22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 07 Ella Mai 'Boo'd Up' (Vandalized Edit).mp3 in Resources */,
+				F43330F722AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 05 Kanye West x Denzel Curry 'Sunday Service' (Vandalized Edit).mp3 in Resources */,
+				F43330F922AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 11 Travis Scott 'Stargazing' (Vandalized Edit).mp3 in Resources */,
+				F43330F422AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 17 Major Lazer 'Pon Di Floor Joanna' (Vandalized Edit).mp3 in Resources */,
+				F43330FE22AF8173000E347F /* Jarreau Vandal - Vandalized Edits Volume IV - 01 Burna Boy 'Pop Ye Collar' (Vandalized Edit).mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
